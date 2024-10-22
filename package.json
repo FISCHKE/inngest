@@ -1,0 +1,13 @@
+{
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "description": "A brief description of your project",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "npm install -g inngest-cli",
+    "start": "inngest start"
+  },
+  "keywords": [],
+  "author": "Your Name",
+  "license": "ISC"
+}
