@@ -7,6 +7,9 @@
     "prepare": "npm install -g inngest-cli",
     "start": "inngest start"
   },
+  "dependencies": {
+    "inngest-cli": "*"
+  },
   "keywords": [],
   "author": "Your Name",
   "license": "ISC"
