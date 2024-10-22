@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "prepare": "npm install -g inngest-cli",
-    "start": "inngest start"
+    "start": "inngest start --verbose"
   },
   "dependencies": {
     "inngest-cli": "*"
