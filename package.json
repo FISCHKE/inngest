@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "prepare": "npm install -g inngest-cli",
-    "start": "inngest start --verbose --event-key eventKey --signing-key signingKey --poll-interval 5 --sdk-url https://d7af-2a02-8071-71b0-49a0-d882-84ac-195b-cf63.ngrok-free.app"
+    "start": "inngest start --verbose --event-key eventKey --signing-key signingKey --poll-interval 5 --sdk-url http://lkookgk4w8ocoo4gg4s84w04.142.132.181.75.sslip.io"
   },
   "dependencies": {
     "inngest-cli": "*"
